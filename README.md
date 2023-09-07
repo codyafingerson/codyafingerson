@@ -12,4 +12,5 @@ Here are some of my latest projects:
  - Support Desk (frontend & backend) [[view]](https://github.com/codyafingerson/support-desk)
  - [Bridger Ski Foundation](https://www.bridgerskifoundation.org/) internal web app
 
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codyafingerson)
