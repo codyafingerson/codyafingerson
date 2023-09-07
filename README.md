@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile!
+# Welcome to My GitHub Profile! 🤓
 
 #### Greetings! I am Cody Fingerson, a Junior in Computer Science at Montana State University. As an aspiring developer, I am deeply committed to delivering top-notch code.
 
