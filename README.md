@@ -1,14 +1,14 @@
 # Welcome to My GitHub Profile! 🤓
 
-#### Greetings! I am Cody Fingerson, a Junior in Computer Science at Montana State University. As an aspiring developer, I am deeply committed to delivering top-notch code.
+#### 👋 Hi there! I'm Cody, a computer science student at Montana State University. I'm passionate about coding and love diving into the world of programming and computer science. My interests include full-stack web development, desktop application creation, and programming language design. Let's build something awesome together! 💻🚀
 
-This page showcases a selection of my personal and academic projects. I invite you to peruse my work and do not hesitate to contact me if any questions arise.
+This GitHub account features a collection of my personal and academic projects. Feel free to explore my work and reach out if you have any questions.
 
 # My Recent Endeavors
 
 Here are some of my latest projects:
- - Internal calibration application for quantum cascade laser drivers for Wavelength Electronics, Inc. [Wavelength Electronics](https://www.teamwavelength.com/product/qcl1000-laboratory-series-1000-ma-qcl-driver-instrument)
- - Ticket Management API [[view]](https://github.com/codyafingerson/ticket-api)
+ - Internal calibration application for Quantum Cascade Laser drivers for Wavelength Electronics, Inc. [Wavelength Electronics](https://www.teamwavelength.com/product/qcl1000-laboratory-series-1000-ma-qcl-driver-instrument)
+ - HRDC Warming Shelter Management System
  - Support Desk (frontend & backend) [[view]](https://github.com/codyafingerson/support-desk)
  - [Bridger Ski Foundation](https://www.bridgerskifoundation.org/) internal web app
 
