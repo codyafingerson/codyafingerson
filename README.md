@@ -8,7 +8,7 @@ I'm Cody, a senior Computer Science student at Montana State University and a ba
 
 I'm always eager to learn and take on new challenges in the tech world! If you're interested in collaborating or have any questions, feel free to reach out to me. I'd love to connect with you!
 
-Here's some of my stats:
 ---
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codyafingerson)
+![](https://skillicons.dev/icons?i=ts,cs,nodejs,spring,java,docker,git,github)
 ---
+
